@@ -10,3 +10,5 @@
 5.If you want to watch the data lake online on Chrome, the extension of Enable local file links need to be install first.
 
 6.In the Arima model, the inputted format of 'date' is like '2015-11-01', and the format of time just uses integer
+
+7.All used data sets are in the traffic data folder in the folder of data lake.
