@@ -12,3 +12,5 @@
 6.In the Arima model, the inputted format of 'date' is like '2015-11-01', and the format of time just uses integer
 
 7.All used data sets are in the traffic data folder in the folder of data lake.
+
+8.The local server address is 127.0.0.1:8380
